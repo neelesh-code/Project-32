@@ -196,6 +196,6 @@ async function getBackgroundImage(){
         bg="Black Background.png"
     }
 
-    backgroundIMG=loadImage(bg);
+    backgroundImg=loadImage(bg);
 
 }
